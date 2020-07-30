@@ -3,7 +3,7 @@
 ## [名前]
 Kaz-creater
 ### 趣味
-Fishing
+Cycling
  + [趣味]
 
 ### 好きなな食べ物
